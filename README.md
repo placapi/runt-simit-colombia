@@ -7,8 +7,8 @@ Nace de una frustración concreta: casi toda la información que circula sobre "
 por placa" es imprecisa o directamente falsa. Este repositorio documenta lo verificado contra
 las fuentes oficiales.
 
-> Mantenido por el equipo de [PlacApi](https://placapi.com). Aquí no hay scrapers ni código del
-> servicio: es documentación de las fuentes públicas.
+> Mantenido por el equipo de [PlacApi](https://placapi.com). Aquí no hay código del servicio:
+> es documentación de las fuentes públicas.
 
 ## Las fuentes
 
